@@ -1,3 +1,5 @@
+
+
 #include "BLEDevice.h"
 #include "BLEUtils.h"
 #include "BLEServer.h"
@@ -7,6 +9,7 @@
 /******************** BLE ************************************/
 BLEAdvertising *pAdvertising;
 String product_url = "bit.ly/2RTeYtv";
+## Code written by Ayan Das and left in this question - https://esp32.com/viewtopic.php?t=9788
 
 #define DEBUG
 /*****************************************************************************
